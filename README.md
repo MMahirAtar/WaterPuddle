@@ -1,9 +1,4 @@
 # WaterPuddle
-Inventuna Games Test Case Raporu
-
-# WaterPuddle
-
-Inventuna Games Test Case Raporu
 
 İçerik
 - Test Case özeti
