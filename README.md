@@ -3,7 +3,6 @@
 İçerik
 - Test Case özeti
 - Sorunu Anlamak
-- “Töze İnmek”
 - Görsel Efektin Kapsamı ve Özellik Listesi
 - Literatür Taraması
 - Örnek Yaklaşımlar
